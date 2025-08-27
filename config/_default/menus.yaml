@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 0ce3ae6f-ee3c-45ed-842d-fa9d790cb174
+  name: ELECTROSTATICS
+  pageRef: /external-resources/electrostatics_0ce3ae6f-ee3c-45ed-842d-fa9d790cb174
+  weight: 10
+- identifier: b1456b45-96b4-4294-b233-87adcfc03d3e
+  name: MAGNETIC FIELDS AND FORCES
+  pageRef: /external-resources/magnetic-fields-and-forces_b1456b45-96b4-4294-b233-87adcfc03d3e
+  weight: 20
+- identifier: 03af9e4a-f31e-4e45-a903-b45077c0bb12
+  name: MAXWELL'S EQUATIONS
+  pageRef: /external-resources/maxwells-equations_03af9e4a-f31e-4e45-a903-b45077c0bb12
+  weight: 30
